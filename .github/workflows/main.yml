@@ -1,0 +1,2 @@
+- name: Read Elastic Beanstalk Environment Data
+  uses: alexjurkiewicz/elastic-beanstalk-read-environment@v2
